@@ -1,5 +1,5 @@
-var jpegSize = require('jpeg-size')
-var pngSize = require('png-size')
+var jpegSize = require('component-jpeg-size')
+var pngSize = require('component-png-size')
 
 var supported =
 getSize.supported = window.FileReader

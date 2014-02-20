@@ -1,0 +1,17 @@
+{
+  "name": "component-image-size",
+  "description": "Get the dimensions of an image from a file input",
+  "version": "0.0.2",
+  "keywords": [
+    "jpeg",
+    "png",
+    "image",
+    "dimensions"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "component-jpeg-size": "git://github.com/npmcomponent/component-jpeg-size.git",
+    "component-png-size": "git://github.com/npmcomponent/component-png-size.git"
+  },
+  "license": "MIT"
+}
